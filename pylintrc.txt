@@ -1,0 +1,11 @@
+[MESSAGES CONTROL]
+disable = C0116:missing-function-docstring,
+        missing-module-docstring,
+        missing-class-docstring,
+        import-outside-toplevel,
+        attribute-defined-outside-init,
+        line-too-long,
+        invalid-str-returned,
+        no-member,
+        wrong-import-position,
+        unused-import
